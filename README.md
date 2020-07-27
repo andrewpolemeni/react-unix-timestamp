@@ -1,3 +1,6 @@
+Built this small app to get the current unix time at work. 
+I wanted to create my own live clock since I use the timestamp for file creation.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
