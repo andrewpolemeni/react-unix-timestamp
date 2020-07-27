@@ -1,6 +1,9 @@
 Built this small app to get the current unix time at work. <br />
 I wanted to create my own live clock since I use the timestamp for file creation.
 
+App is currently posted here:
+https://fire-react-demo-2b9ca.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
